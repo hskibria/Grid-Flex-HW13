@@ -1,0 +1,42 @@
+.box{
+	min-height: 140px;
+	background-color: aqua;
+	margin-bottom: 8px;
+	text-align: center;
+
+    color: coral;
+
+	font-size: 25px;
+}
+.box1{
+	min-height: 140px;
+	background-color: black;
+	margin-bottom: 8px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+.box2{
+	min-height: 140px;
+	background-color: yellow;
+	margin-bottom: 8px;
+	text-align: center;
+	color: red;
+	font-size: 25px;
+
+}
+.box3{
+	min-height: 140px;
+	background-color: pink;
+	margin-bottom: 8px;
+	text-align: center;
+	color: red;
+	font-size: 25px;
+
+}
+
+h2{
+	text-align: center;
+	font-size: 50px;
+color: orangered;
+}
